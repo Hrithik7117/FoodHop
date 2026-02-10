@@ -38,10 +38,10 @@
 
 ### 👤 User
 **Register**  
-![User Register](screenshots/User_register.png)
+![user Register](screenshots/user_register.png)
 
 **Login**  
-![User Login](screenshots/user_login.png)
+![User Login](screenshots/User_login.png)
 
 **Reels**  
 ![Reels](screenshots/reel.png)
