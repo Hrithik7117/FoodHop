@@ -38,15 +38,15 @@
 
 <h3>👤 User</h3>
 <p>
-  <img src="screenshots/user_resgister.png" width="250">
+  <img src="screenshots/user_register.png" width="250">
   <img src="screenshots/user_login.png" width="250">
   <img src="screenshots/reel.png" width="250">
 </p>
 
 <h3>🍽️ Food Partner</h3>
 <p>
-  <img src="screenshots/food-partner_register.png" width="250">
-  <img src="screenshots/food-partner_login.png" width="250">
+  <img src="screenshots/foodpartner_register.png" width="250">
+  <img src="screenshots/foodpartner_login.png" width="250">
   <img src="screenshots/addItem.png" width="250">
 </p>
 
