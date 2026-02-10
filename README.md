@@ -38,7 +38,7 @@
 
 ### 👤 User
 **Register**  
-![User Register](screenshots/user_register.png)
+![User Register](screenshots/User_register.png)
 
 **Login**  
 ![User Login](screenshots/user_login.png)
