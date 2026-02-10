@@ -34,19 +34,27 @@
 
 ## 📸 Screenshots
 
-<h2>📸 Screenshots</h2>
+## Screenshots
 
-<h3>👤 User</h3>
-<p>
-  <img src="screenshots/user_register.png" width="250">
-  <img src="screenshots/user_login.png" width="250">
-  <img src="screenshots/reel.png" width="250">
-</p>
+### 👤 User
+**Register**  
+![User Register](screenshots/user_register.png)
 
-<h3>🍽️ Food Partner</h3>
-<p>
-  <img src="screenshots/foodpartner_register.png" width="250">
-  <img src="screenshots/foodpartner_login.png" width="250">
-  <img src="screenshots/addItem.png" width="250">
-</p>
+**Login**  
+![User Login](screenshots/user_login.png)
+
+**Reels**  
+![Reels](screenshots/reel.png)
+
+---
+
+### 🍽️ Food Partner
+**Register**  
+![Food Partner Register](screenshots/foodpartner_register.png)
+
+**Login**  
+![Food Partner Login](screenshots/foodpartner_login.png)
+
+**Add Item**  
+![Add Item](screenshots/addItem.png)
 
